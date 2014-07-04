@@ -1,6 +1,6 @@
 {
   "name": "parse-module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Parse Cloud module manager",
   "main": "index.js",
   "scripts": {
